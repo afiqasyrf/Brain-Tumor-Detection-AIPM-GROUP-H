@@ -7,3 +7,27 @@ The project is created by adhering to the PMP in order to better organise the pr
 The PMP-Plan created is merely the result of simulation collaboration with outside organisations.
 
 # Project Management Plan (PMP)
+
+Project Summary:
+
+The project objectives and team members are briefly summarised in the project summary.
+
+Project Planning: 
+
+Creating and maintaining a feasible plan as part of the planning process will guarantee that the project meets the needs of the company. In this phase, a Gantt chart and a work breakdown structure (WBS) are documented.
+
+Project Implementation:
+
+The project deliverables, such as the software requirements and the architecture of an intelligent system, are defined during project implementation.
+
+Project Execution:
+
+The project execution phase is where the outcome, code components, and technical implementation are specified and documented.
+
+Project Closing:
+
+Project Closing denotes the point in the project's lifespan that a closing report and lessons learned report are required.
+
+Project Presentation:
+
+The results of this project is demonstrated in the project presentation.
