@@ -15,3 +15,9 @@ One of the top causes of death in both children and adults is brain tumours. Bra
 + MUHAMMAD AFIQ ASYRAF BIN ABU SAMAH (B032110033)
 + MUHAMMAD AIMAN BIN REDUAN (B032110509)
 + NUR AFIQAH BINTI ANUAR (B032010114)
+
+**Objectives:**
+
++ To develop a smart system that use artificial intelligence that can differentiate between normal brain and infected one
++ To develop a systtem that are able to segment tumor cell in the brain
++ To create a model that can accurately detect the tumor cell in the mri picture 
