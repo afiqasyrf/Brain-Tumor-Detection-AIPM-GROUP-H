@@ -6,4 +6,4 @@ The project is created by adhering to the PMP in order to better organise the pr
 
 The PMP-Plan created is merely the result of simulation collaboration with outside organisations.
 
-# Project Plan
+# Project Management Plan (PMP)
