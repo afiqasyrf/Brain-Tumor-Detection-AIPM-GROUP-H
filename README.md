@@ -5,3 +5,5 @@ This is a project that can detect and segment a brain tumor in an MRI as accurat
 The project is created by adhering to the PMP in order to better organise the project's lifecycle. The project is managed using a variety of charting tools, including Gantt charts, milestone charts, and work breakdown structures (WBS).
 
 The PMP-Plan created is merely the result of simulation collaboration with outside organisations.
+
+# Project Plan
