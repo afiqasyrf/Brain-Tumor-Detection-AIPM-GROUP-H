@@ -33,3 +33,7 @@ Project Closing denotes the point in the project's lifespan that a closing repor
 The results of this project is demonstrated in the project presentation.
 
 # Sample Results
+
+**Result:**
+![image](https://user-images.githubusercontent.com/121602144/211211677-ab9e12cf-a3bd-4217-b6bb-7085386ddd61.png)
+
