@@ -20,5 +20,5 @@ One of the top causes of death in both children and adults is brain tumours. Bra
 **Objectives:**
 
 + To develop a smart system that use artificial intelligence that can differentiate between normal brain and infected one
-+ To develop a systtem that are able to segment tumor cell in the brain
++ To develop a system that are able to segment tumor cell in the brain
 + To create a model that can accurately detect the tumor cell in the mri picture 
