@@ -31,3 +31,5 @@ Project Closing denotes the point in the project's lifespan that a closing repor
 **Project Presentation:**
 
 The results of this project is demonstrated in the project presentation.
+
+# Sample Results
