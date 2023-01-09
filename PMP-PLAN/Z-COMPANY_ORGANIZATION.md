@@ -1,20 +1,20 @@
-# ABOUT QTMT IT Solution Inc 
-This company is setup by a group of AI enthusiastic students in UTeM. They are passionate in AI software and products and hope to bring AI closer to everyone in the world.
+# ABOUT COMPANY NAME
+A group of eager UTeM students that are interested in AI founded this startup. They are passionate about AI software and products and want to make AI more widely available for people
 
-Based in Malaysia, Malacca. 
+Based in Malacca, Malaysia. 
 
 ## OUR MISSION
-BRING CUTTING EDGE ARTIFICIAL INTELLIGENCE(AI) TECHNOLOGY TO THE COMMUNITY AND DAILY LIFE
+Introduce cutting-edge artificial intelligence (AI) technology to daily life and the community.
 
 ## Innovation
-We change the way of how people think about AI and change their life habit. 
+We alter people's attitudes toward AI and alter their daily routines.
 
 ## OUR TEAM
 **CHIEF EXECUTIVE OFFICIAL (CEO)**
 
 <img src="assets/quek.jpg" width="200" height="auto" />
 
-**QUEK YAO JING**
+**MUHAMMAD AFIQ ASYRAF BIN ABU SAMAH**
 
 Resposiblity:
 1. Manage the company staff and organization workflow
@@ -28,7 +28,7 @@ Resposiblity:
 
 <img src="assets/mervyn.jpeg" width="200" height="auto" />
 
-**MEVRYN LIM ZHE XI**
+**NUR AFIQAH BINTI ANUAR**
 
 Responsibility:
 1. Report directly to CEO on any project progress and status
@@ -42,7 +42,7 @@ Responsibility:
 
 <img src="assets/tlh.jpeg" width="200" height="auto" />
 
-**TANG LI HO**
+**MUHAMMAD AIMAN BIN REDUAN**
 
 Responsiblity:
 1. Make decision on the car plate recognition technology needed
@@ -51,18 +51,3 @@ Responsiblity:
 4. Manage the technical staff available in the company and seprate the task based on their expertise
 
 
-<br>
-
-**CHIEF FINANCIAL OFFICIAL (CFO)**
-
-<img src="assets/wenxiang1.jpeg" width="180" height="auto" />
-
-**TAN WEN XIANG**
-
-Responsiblity:
-1. Ensure the project does not exceed the maximum budget allocations
-2. Do reporting and accounting on the cashflow of the project and company
-3. Communicate with all levels to find out how much budget to be allocated to each department
-4. Report to CEO if there are any budget issues
-5. Procurement Manager
-HyperWrite Logo
