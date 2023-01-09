@@ -2,4 +2,8 @@
 
 This project uses deep learning to identify and segment brain tumor from mri image.
 
-# REQUIREMENT
+# REQUIREMENTS
+
+MATLAB R2022b
+[link text](https://www.mathworks.com/downloads/)
+
