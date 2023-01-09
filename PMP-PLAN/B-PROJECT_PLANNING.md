@@ -8,6 +8,8 @@ The project management life cycle is depicted and documented in the form of a Ga
 The project management work breakdown structure (WBS) is depicted in the Gantt Chart below.
 
 ![image](https://user-images.githubusercontent.com/122180771/211348603-e8f06f69-24e3-4a9c-aa34-6a16feb66b34.png)
+![wbs](https://user-images.githubusercontent.com/121602144/211404209-3edb3a00-581d-4ef7-992e-f5b11f5a138a.png)
+
 
 
 ### Scope
