@@ -1,4 +1,4 @@
-# ABOUT COMPANY NAME
+# ABOUT YOUR TUMOR CORPORATION SDN. BHD.
 A group of eager UTeM students that are interested in AI founded this startup. They are passionate about AI software and products and want to make AI more widely available for people
 
 Based in Malacca, Malaysia. 
