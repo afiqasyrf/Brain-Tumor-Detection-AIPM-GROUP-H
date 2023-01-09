@@ -6,4 +6,10 @@ The project management work breakdown structure (WBS) is depicted in the Gantt C
 
 ![image](https://user-images.githubusercontent.com/122180771/211342560-4a05d843-f910-416f-ad69-dfb7761b590b.png)
 
+# Scope
+
+The above work breakdown structure (WBS) was designed to map all of the essential activities and build the method that the WBS would manage and approve.
+
+The Brain Tumor Detection System scopes, works around on the ability of the system to differentiate brains with tumor and brains without tumor as well as identify the segement where the tumor is in the brain. For example, will the system be able to differentiate the brains if the normal brain contain other brain disease, will it still detect it as a brain tumor eventhough its not.
+
 
