@@ -17,10 +17,10 @@ We alter people's attitudes toward AI and alter their daily routines.
 **MUHAMMAD AFIQ ASYRAF BIN ABU SAMAH**
 
 Resposiblity:
-1. Manage the company staff and organization workflow
-2. Making major corporate decisions 
-3. Manage and allocate the resources of the company
-4. Make sure project meet the dateline
+1. Control the workforce and operations of the company.
+2. Making important business decisions 
+3. Manage and distribute the company's resources.
+4. Aim to complete the project by the deadline.
 
 <br>
 
@@ -31,10 +31,10 @@ Resposiblity:
 **NUR AFIQAH BINTI ANUAR**
 
 Responsibility:
-1. Report directly to CEO on any project progress and status
-2. Identify risks and threat that might be happened in the company
-3. Aids CEO in attending public events and meet more people on the community
-4. Maintain public relations with other members of the company
+1. Report any project progress and status immediately to the CEO.
+2. Identify potential hazards and threats to the company.
+3. Helps the CEO attend public events and network with more individuals in the neighbourhood
+4. Keep the company's other members in the public eye.
 
 <br>
 
@@ -45,9 +45,9 @@ Responsibility:
 **MUHAMMAD AIMAN BIN REDUAN**
 
 Responsiblity:
-1. Make decision on the car plate recognition technology needed
-2. Create the policy for the company to unsure a safe and secure development and production environment
-3. Communicate with all levels to make sure the ideas and project are able to be delivered
-4. Manage the technical staff available in the company and seprate the task based on their expertise
+1. Make a choice regarding the required car-plate recognition technology.
+2. Create a policy for the business to ensure a secure environment for production and development.
+3. Make sure to communicate at all levels to ensure that the project and the ideas can be completed.
+4. Manage the company's technical team and divide the work according to their areas of expertise
 
 
