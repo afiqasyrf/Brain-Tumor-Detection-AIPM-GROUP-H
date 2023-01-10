@@ -27,6 +27,8 @@ The Brain Tumor Detection System scopes, works around on the ability of the syst
 |Time <br> (Errors in estimating time or resource availability; errors in determining the critical path; poor allocation and management of float; early release of competitive products) | 1. Project not able to reach the milestone set  as described in the Gantt Chart. <br><br> 2. Errors in estimating resource availability: There are not enough server to be used to run the model training  |The members are stuck with a certain problem and drag all the other team members <br><br>The problem will be encountered during the project excution and monitoring phase.| Ask support from the other team member and switch their task or job to other job to avoid him/her to stuck in the problem loop.|
 
 ![image](https://user-images.githubusercontent.com/121602144/211630347-82165a0f-50b4-4afa-a617-a4f929879046.png)
+![image](https://user-images.githubusercontent.com/121602144/211635208-6b96518d-4836-4b8f-83e8-3504739841ac.png)
+
 
 
 
