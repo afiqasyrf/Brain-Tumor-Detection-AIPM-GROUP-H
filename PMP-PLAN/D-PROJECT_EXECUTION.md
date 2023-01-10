@@ -11,7 +11,8 @@ Tumor Detection Implementation Example
 
 
 
-#Project Result
+# Project Result
 
+If tumor was found:
 ![image](https://user-images.githubusercontent.com/121602144/211649739-7d5fae98-f89d-4e7b-82d2-ac9277604448.png)
 
