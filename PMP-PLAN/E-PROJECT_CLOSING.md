@@ -35,5 +35,6 @@ The actual budget matches the initial budget, indicating that the team adhered t
 
 ### 4.0 CLOSING CONTRACT
 
+![image](https://user-images.githubusercontent.com/122180771/211632517-5b149803-a43d-49cf-a401-8986685bd7a1.png)
 
 
