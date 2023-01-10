@@ -59,10 +59,20 @@ This whole example are the main coding of this system. it consists of %% Input f
 
 <br><br>
 
-    The %% Bounding box function is used to create a box to mark the tumor
+    The %% Tumor outline function is used to detect the outline of the tumor by using filling, eroding and subtracting method
     
 ![image](https://user-images.githubusercontent.com/121602144/211661828-268f1f43-1590-4be5-9794-75aae61ed669.png)
+
+<br><br>
+
+    The %% Tumor outline function is used to detect the outline of the tumor by using filling, eroding and subtracting method
+    
 ![image](https://user-images.githubusercontent.com/121602144/211661861-b695d13c-1a71-4dbf-90dd-66957ad9b56b.png)
+
+<br><br>
+
+    The %% Tumor outline function is used to detect the outline of the tumor by using filling, eroding and subtracting method
+    
 
 
 
