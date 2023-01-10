@@ -65,7 +65,8 @@ This whole example are the main coding of this system. it consists of %% Input f
 
 <br><br>
 
-    The %% Tumor outline function is used to detect the outline of the tumor by using filling, eroding and subtracting method
+    The %% subtracting function is used to reject the eroded image from the original black and white image  
+    The %% inserting the outline function is used to place the of the bounding box to the detected tumor in the filtered image in red color so it will be more visible
     
 ![image](https://user-images.githubusercontent.com/121602144/211661861-b695d13c-1a71-4dbf-90dd-66957ad9b56b.png)
 
