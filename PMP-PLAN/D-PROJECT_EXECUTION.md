@@ -32,7 +32,7 @@ This whole example are the main coding of this system. it consists of %% Input f
 ![image](https://user-images.githubusercontent.com/121602144/211661137-d0692a91-a765-4ce9-91c6-8f4e7340a066.png)
 <br> 
 
-    line 1 of code
+    The %% Input function is used so that the system can accept input image. It works by user selecting their own image from their folder
 
 
 
