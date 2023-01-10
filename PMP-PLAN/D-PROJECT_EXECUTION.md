@@ -14,7 +14,7 @@ Coding and function required:
 
 **anisodiff_function.m**
 
-This system require a different function that can convert input image, center the distance of the pixels from the image, creating a 2d convulation masks and adapting anisotropic diffusion, also called Perona–Malik diffusion,which is a technique aiming at reducing image noise without removing significant parts of the image content, typically edges, lines or other details that are important for the interpretation of the image
+This system require a seperate function that can convert input image, center the distance of the pixels from the image, creating a 2d convulation masks and adapting anisotropic diffusion, also called Perona–Malik diffusion,which is a technique aiming at reducing image noise without removing significant parts of the image content, typically edges, lines or other details that are important for the interpretation of the image
 
 ![image](https://user-images.githubusercontent.com/121602144/211653080-764fab0b-001b-4a57-83f1-79566916e4f9.png)
 ![image](https://user-images.githubusercontent.com/121602144/211653163-eef58649-2e2b-45ed-bc1d-0d40b95e4aa2.png)
@@ -33,6 +33,8 @@ This whole example are the main coding of this system. it consists of %% Input f
 <br> 
 
     The %% Input function is used so that the system can accept input image. It works by user selecting their own image from their folder
+<br>
+    The %% Filter function is used to load the separate anisodiff_function.m to Final_Brain_Tumor.m
 
 
 
