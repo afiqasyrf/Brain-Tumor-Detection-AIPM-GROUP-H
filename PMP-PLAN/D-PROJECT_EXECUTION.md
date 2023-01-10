@@ -33,7 +33,6 @@ This whole example are the main coding of this system. it consists of %% Input f
 <br> 
 
     The %% Input function is used so that the system can accept input image. It works by user selecting their own image from their folder
-<br>
     The %% Filter function is used to load the separate anisodiff_function.m to Final_Brain_Tumor.m
 
 
