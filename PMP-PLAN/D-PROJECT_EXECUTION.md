@@ -23,6 +23,7 @@ This system require a different function that can convert input image, center th
 Final_Brain_Tumor.m
 
 ![image](https://user-images.githubusercontent.com/121602144/211661137-d0692a91-a765-4ce9-91c6-8f4e7340a066.png)
+![image](https://user-images.githubusercontent.com/121602144/211661267-ce354565-5e79-4a40-948d-5bf44eaec8c9.png)
 
 
 
