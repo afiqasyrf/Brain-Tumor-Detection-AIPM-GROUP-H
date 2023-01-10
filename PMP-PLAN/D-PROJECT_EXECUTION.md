@@ -27,6 +27,8 @@ This system require a different function that can convert input image, center th
 
 This whole example are the main coding of this system. it consists of %% Input function, %% Filter function, %% thresholding funtion, %% Morphological function, %% Bounding box function, %% Tumor outline function, %% subtracting function, %% inserting the outline function and %% Display function
 
+<br>
+
 ![image](https://user-images.githubusercontent.com/121602144/211661137-d0692a91-a765-4ce9-91c6-8f4e7340a066.png)
 ![image](https://user-images.githubusercontent.com/121602144/211661267-ce354565-5e79-4a40-948d-5bf44eaec8c9.png)
 ![image](https://user-images.githubusercontent.com/121602144/211661405-1c9d8133-60ad-4b37-92e1-dc157bbef847.png)
