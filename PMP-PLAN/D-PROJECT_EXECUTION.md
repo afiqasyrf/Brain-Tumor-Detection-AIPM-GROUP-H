@@ -71,7 +71,7 @@ This whole example are the main coding of this system. it consists of %% Input f
 
 <br><br>
 
-    The %% Tumor outline function is used to detect the outline of the tumor by using filling, eroding and subtracting method
+    The %% Display function is used to display the results of the system and combined it all in one output
     
 
 
