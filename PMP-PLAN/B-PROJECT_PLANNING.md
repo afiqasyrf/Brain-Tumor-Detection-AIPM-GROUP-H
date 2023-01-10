@@ -26,6 +26,9 @@ The Brain Tumor Detection System scopes, works around on the ability of the syst
 |Cost <br> (Estimating errors; inadequate productivity, cost, change, or contingency)|1. Contigency: The costing of the server will be spike if one of the developer forget to shutdown the EC2 instance when not using it. <br><br> 2. Inadequate productivity: Team members are ill or cannot be contact resulting to be unable to deliver what they suppoosed to deliver which lead to extra cost need to allocated for the cloud servers. |The monthly bills shows unexpected extra charged to the bills.<br><br>The problem most probably will be encountered during the project execution and project implementation.|Notify the owner through email or discord whenever budget exceed threshold in the AWS cloud computing service.
 |Time <br> (Errors in estimating time or resource availability; errors in determining the critical path; poor allocation and management of float; early release of competitive products) | 1. Project not able to reach the milestone set  as described in the Gantt Chart. <br><br> 2. Errors in estimating resource availability: There are not enough server to be used to run the model training  |The members are stuck with a certain problem and drag all the other team members <br><br>The problem will be encountered during the project excution and monitoring phase.| Ask support from the other team member and switch their task or job to other job to avoid him/her to stuck in the problem loop.|
 
+![image](https://user-images.githubusercontent.com/121602144/211630347-82165a0f-50b4-4afa-a617-a4f929879046.png)
+
+
 
 ### Roles and Responsibilities 
 |Roles|<div style="width: 150px"> Person In Charge </div>|Responsibilities|
