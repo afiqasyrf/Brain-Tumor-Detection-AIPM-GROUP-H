@@ -8,6 +8,15 @@ Flowchart Design:
 
 Tumor Detection Implementation Example
 
+# Description of the project and implementation
+
+Coding and function required:
+
+![image](https://user-images.githubusercontent.com/121602144/211653080-764fab0b-001b-4a57-83f1-79566916e4f9.png)
+![image](https://user-images.githubusercontent.com/121602144/211653163-eef58649-2e2b-45ed-bc1d-0d40b95e4aa2.png)
+![image](https://user-images.githubusercontent.com/121602144/211653226-c402e649-5116-4dd3-bb08-4b64b4204ea3.png)
+
+
 
 
 
