@@ -27,6 +27,8 @@ Final_Brain_Tumor.m
 ![image](https://user-images.githubusercontent.com/121602144/211661405-1c9d8133-60ad-4b37-92e1-dc157bbef847.png)
 ![image](https://user-images.githubusercontent.com/121602144/211661447-d4d78ec5-4746-4692-ae49-f6a77db2d545.png)
 ![image](https://user-images.githubusercontent.com/121602144/211661504-a3e85804-4cd2-445c-b6d1-9913a8fc456c.png)
+![image](https://user-images.githubusercontent.com/121602144/211661682-8394f38c-fcaa-4635-abd8-0972c7d4e280.png)
+
 
 
 
