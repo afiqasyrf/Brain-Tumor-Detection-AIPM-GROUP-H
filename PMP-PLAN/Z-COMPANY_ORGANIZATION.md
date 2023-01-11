@@ -40,7 +40,7 @@ Responsibility:
 
 **CHIEF TECHNOLOGY OFFICIAL (CTO)**
 
-![WhatsApp Image 2023-01-11 at 5 43 59 PM](https://user-images.githubusercontent.com/121602144/211865717-29c0cb8d-e444-4782-9016-f7d03c53cf34.jpeg)
+<img src="assets/cto.jpeg" width="200" height="auto" />
 
 **MUHAMMAD AIMAN BIN REDUAN**
 
