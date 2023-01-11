@@ -19,7 +19,7 @@ The system will detect the existence of brain tumor in brains and then it will a
 |-----|----|----|
 |   maintenance of servers         |$24000                         |  Monthly Cloud Server      |      
 |   construction management   |$30000                         | Supervision on the project | 
-|   specialised sources        |$72000                         |  Investigate and evaluate undertaking                                                 |                              |
+|   specialised sources        |$72000                         |  Fine tuning the AI model                                                 |                              |
 |   Use of equipment and equipment|$800                           | Equipment preparation and setup                                                       |                              |
 |   Project signs              |$400                           |  Installation of project signs     |                            |
 |   TOTAL                      |$127200                        |  Estimated     |                              |
