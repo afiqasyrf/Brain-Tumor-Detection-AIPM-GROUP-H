@@ -12,7 +12,7 @@ We alter people's attitudes toward AI and alter their daily routines.
 ## OUR TEAM
 **CHIEF EXECUTIVE OFFICIAL (CEO)**
 
-<img src="assets/ceo.jpeg" width="200" height="auto" />
+<img src="assets/ceo.jpg" width="200" height="auto" />
 
 **MUHAMMAD AFIQ ASYRAF BIN ABU SAMAH**
 
