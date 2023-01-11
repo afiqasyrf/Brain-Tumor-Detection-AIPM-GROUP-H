@@ -45,7 +45,7 @@ Responsibility:
 **MUHAMMAD AIMAN BIN REDUAN**
 
 Responsiblity:
-1. Make a choice regarding the required car-plate recognition technology.
+1. Make a choice regarding the required brain tumor detection technology.
 2. Create a policy for the business to ensure a secure environment for production and development.
 3. Make sure to communicate at all levels to ensure that the project and the ideas can be completed.
 4. Manage the company's technical team and divide the work according to their areas of expertise
