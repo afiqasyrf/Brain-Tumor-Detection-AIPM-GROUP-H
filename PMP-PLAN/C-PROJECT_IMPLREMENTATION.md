@@ -33,7 +33,10 @@ The system will detect the existence of brain tumor in brains and then it will a
 |   TOTAL                      |$127200                        |  Estimated     |                              |
 
 ### Milestone Chart
-#### Microsoft Project
+
+![image](https://user-images.githubusercontent.com/122180771/211879264-15ab2694-5a19-44c4-9864-ed178186d6e2.png)
+![image](https://user-images.githubusercontent.com/122180771/211881921-a765192a-df8d-4343-ad83-939131892db3.png)
+
 
 
 
