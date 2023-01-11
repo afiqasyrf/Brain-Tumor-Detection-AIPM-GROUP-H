@@ -10,6 +10,8 @@ The project codes is build and executed using MATLAB, the overall system is crea
 
 #### Intelligent System Architecture:
 The proposed deep learning model is using image processing that contain neural networks to learn useful representations of features directly from data
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/121602144/211769621-912d9eb4-1a06-4bc7-87e8-5e4d0a689a78.jpg)
+
 
 
 ### System Outcomes
