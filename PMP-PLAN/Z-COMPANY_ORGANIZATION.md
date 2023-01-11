@@ -26,7 +26,7 @@ Resposiblity:
 
 **CHIEF OPERATING OFFICIAL (COO)**
 
-<img src="assets/mervyn.jpeg" width="200" height="auto" />
+<img src="assets/coo.jpeg" width="200" height="auto" />
 
 **NUR AFIQAH BINTI ANUAR**
 
