@@ -17,10 +17,10 @@ The system will detect the existence of brain tumor in brains and then it will a
 
 | Task |  Estimated Costs | Notes |
 |-----|----|----|
-|   Server Maintenance         |$24000                         |  Monthly Cloud Server      |      
-|   Construction supervision   |$30000                         | Supervision on the project | 
-|   Cultural resources         |$72000                         |  Investigate and evaluate undertaking                                                 |                              |
-|   Equipment and equipment use|$800                           | Equipment preparation and setup                                                       |                              |
+|   maintenance of servers         |$24000                         |  Monthly Cloud Server      |      
+|   construction management   |$30000                         | Supervision on the project | 
+|   specialised sources        |$72000                         |  Investigate and evaluate undertaking                                                 |                              |
+|   Use of equipment and equipment|$800                           | Equipment preparation and setup                                                       |                              |
 |   Project signs              |$400                           |  Installation of project signs     |                            |
 |   TOTAL                      |$127200                        |  Estimated     |                              |
 
