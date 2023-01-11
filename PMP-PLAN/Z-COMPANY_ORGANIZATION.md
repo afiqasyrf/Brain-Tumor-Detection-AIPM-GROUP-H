@@ -12,7 +12,7 @@ We alter people's attitudes toward AI and alter their daily routines.
 ## OUR TEAM
 **CHIEF EXECUTIVE OFFICIAL (CEO)**
 
-![formal-red background](https://user-images.githubusercontent.com/121602144/211262106-de33a49b-b546-4122-93e5-0ec4b9fc3f68.jpg)
+<img src="assets/ceo.jpeg" width="200" height="auto" />
 
 **MUHAMMAD AFIQ ASYRAF BIN ABU SAMAH**
 
