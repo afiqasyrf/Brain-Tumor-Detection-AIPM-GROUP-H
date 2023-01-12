@@ -3,7 +3,7 @@
 ## C. IMPLEMENTING THE PROJECT PLAN
 ### Deliverables
 #### Hardware Requirement
-For the hardware, our group uses the laptop which consists of
+For the hardware, our group uses the laptop which consists of intel core i5 9th gen and RTX 3060 high spec gpu
 
 #### Software Requirement
 The project codes is build and executed using MATLAB, the overall system is created as a desktop application and localhost is used as a connection between the system and its database.
